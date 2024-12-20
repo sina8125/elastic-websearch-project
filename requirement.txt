@@ -1,0 +1,5 @@
+elasticsearch==8.17.0
+beautifulsoup4==4.12.3
+fastapi==0.115.6
+fastapi-cli==0.0.7
+lxml==5.3.0
